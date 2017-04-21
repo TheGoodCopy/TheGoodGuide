@@ -34,6 +34,8 @@ In general, we prefer a minimalist approach to capitalisation.
 
 We use min caps for Facebook link headlines.
 
+In Facebook captions, advice articles don’t get a subtitle in the link headline. Just write them in min caps, aka sentence case.
+
 *Blog posts*\
 We use max caps to format all titles of blog categories. After colons, we use min caps – that is, we treat the subtitle as a sentence, capitalising only the first letter of the first word and any proper noun. Don’t add a full stop.\
 Car Advice: Nutritious snacks for a road trip that rules
@@ -172,6 +174,7 @@ Mazda 3 (all Mazda models with numbers get a space between the brand and the num
 Mazda CX-5\
 Mercedes-Benz C-Class sedan\
 Mercedes-Benz GLC coupe\
+Mini Countryman\
 Skoda Octavia\
 Suzuki Ignis\
 Tesla Model X\
@@ -272,6 +275,8 @@ Mercedes-Benz
 Motoring\
 Motoring.com.au
 
+multimillion
+
 P-plater
 
 pickup, pickup truck
@@ -304,6 +309,10 @@ no diacritic
 
 sports car designers\
 no hyphen required
+
+test drive (noun)\
+test-drive (adjective)\
+These test-drive tips are essential reading before any test drive.
 
 tonne, tonnes
 
