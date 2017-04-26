@@ -264,13 +264,16 @@ use the abbreviation with numerals in most cases, but if you’re spelling it ou
 
 L\
 use the abbreviation with numerals in most cases, unless spelling it out\
-a 6.2L V8 engine 
+a 6.2L V8 engine
 
 liftback
 
 line-up
 
 Mercedes-Benz
+
+Mini\
+not MINI
 
 Motoring\
 Motoring.com.au
