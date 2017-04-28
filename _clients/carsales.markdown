@@ -21,6 +21,9 @@ Has @HondaAustraliaCars transformed the ever safe and reliable Civic into someth
 not\
 Have @Honda AustralianCars transformed the ever safe and reliable Civic into something more?
 
+That said, we can swap into the plural in a new sentence – but never within the same sentence.\
+Can Uber deliver autonomous flying taxis by 2020? Or are they just distracting us from their recent controversies?
+
 *Audience*
 
 Our audience is a ‘you’, and we use the imperative mood to talk to them.\
