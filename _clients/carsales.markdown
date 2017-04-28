@@ -204,6 +204,9 @@ Our dictionary is the *Macquarie*.
 advice on\
 Here’s our advice on how to handle it
 
+ANCAP\
+treat as a singular noun
+
 best-known\
 usually hyphenated, unless teamed with another adverb
 
