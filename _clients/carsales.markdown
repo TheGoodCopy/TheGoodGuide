@@ -34,7 +34,7 @@ In general, we prefer a minimalist approach to capitalisation.
 
 We use min caps for Facebook link headlines – except when a Carpool category forms part of it.
 
-In Facebook captions, advice articles don’t get a subtitle in the link headline. Just write them in min caps, aka sentence case.
+In Facebook captions, advice and news articles don’t get a subtitle in the link headline – i.e., they don’t have a colon with ‘News’ or ‘Advice’ before it. Just write these link headlines as one sentence in min caps, aka sentence case.
 
 *Blog posts*\
 We use max caps to format all titles of blog categories. After colons, we use min caps – that is, we treat the subtitle as a sentence, capitalising only the first letter of the first word and any proper noun. Don’t add a full stop.\
