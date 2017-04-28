@@ -102,7 +102,8 @@ Then, on 11 March 1957, the Meadows Frisky was announced to the public
 Spans of model years take the century on first instance and then only two digits of the year (unless the span crosses centuries: 1998–2002). The year span usually sits before a brand and model name. It only sits after if the span is in brackets (and this normally only happens in the blog titles, which we don’t write, or the Facebook post leads that basically follow said blog titles).\
 the 2009–13 Mazda 3\
 Here’s our guide to buying a used 2008–13 @SKODAAustralia Octavia\
-Buying used guide: 2005–12 Lexus IS250
+Buying used guide: 2005–12 Lexus IS250\
+Review: 2017 Skoda Octavia RS
 
 Use numerals to show decades, rather than spelling them out, and use an apostrophe to show the missing century. Show that the decade is plural by adding the letter *s*.\
 Powerful compacts were all the rage in the ’60s\
@@ -175,7 +176,7 @@ Mazda CX-5\
 Mercedes-Benz C-Class sedan\
 Mercedes-Benz GLC coupe\
 Mini Countryman\
-Skoda Octavia\
+Skoda Octavia RS\
 Suzuki Ignis\
 Tesla Model X\
 Toyota HiLux
