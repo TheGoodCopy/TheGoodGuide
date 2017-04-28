@@ -163,8 +163,10 @@ Use single quotation marks for anything being defined or flagged as a special te
 *Brand and car model names*
 
 Audi A4 Avant\
+BMW 530e\
 BMW X4\
 BMW M240i\
+BMW 4 Series\
 Holden Trax\
 Honda CR-V\
 Hyundai Elantra SR Turbo\
