@@ -32,7 +32,7 @@ Somehow we managed to trim our list to just five. What scenes would make the cut
 
 In general, we prefer a minimalist approach to capitalisation.
 
-We use min caps for Facebook link headlines.
+We use min caps for Facebook link headlines – except when a Carpool category forms part of it.
 
 In Facebook captions, advice articles don’t get a subtitle in the link headline. Just write them in min caps, aka sentence case.
 
