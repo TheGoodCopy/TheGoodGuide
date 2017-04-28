@@ -216,6 +216,9 @@ bluetooth
 
 breakdown
 
+buy-back\
+hyphenated, not one word or two words
+
 car hack
 
 cc\
@@ -246,6 +249,11 @@ each other\
 two or more (one another = several things, not only two things)
 
 glovebox
+
+guaranteed buy-back
+
+GFV (guaranteed future value)\
+Acronym is fine on first instance in Facebook captions. In blog posts, spell out ‘guaranteed future value’ and follow it with the acronym in parentheses. From then on, the acronym by itself is fine.
 
 gull-wing doors
 
@@ -327,6 +335,9 @@ tonne, tonnes
 
 topnotch\
 one word
+
+up-front\
+hyphenated as adverb and adjective
 
 wheelbase
 
