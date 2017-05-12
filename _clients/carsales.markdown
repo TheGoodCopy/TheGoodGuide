@@ -263,6 +263,9 @@ Acronym is fine on first instance in Facebook captions. In blog posts, spell out
 
 gull-wing doors
 
+hatchback\
+can be hatch from second instance
+
 head-to-head\
 hyphenate as an adverb and adjective\
 Review them head-to-head
@@ -317,10 +320,15 @@ revhead
 
 ride-share, ride-sharing
 
-road trip (noun), road-trip (adj.)\
+road test (noun), road-test (verb and adjective)\
+the ultimate road test\
+we’ll road-test the Jetta
+
+road trip (noun), road-trip (verb and adjective)\
 summer road trip\
 road-trip playlist\
-summer road-trip games
+summer road-trip games\
+we’re road-tripping this summer
 
 Rolls-Royce\
 always with a hyphen, to stay true to the brand\
@@ -342,11 +350,21 @@ tonne, tonnes
 topnotch\
 one word
 
+tyres\
+not tires
+
 up-front\
 hyphenated as adverb and adjective
+
+US\
+the US
 
 wheelbase
 
 wintry
 
-60-second comparison
+2WD
+
+4WD
+
+60-second review
