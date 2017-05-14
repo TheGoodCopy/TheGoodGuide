@@ -79,6 +79,10 @@ You’ll appreciate that it won’t depreciate (as much) 🤔 Here’s our guide
 An emoji can replace a word (or come between two words) in the middle of a sentence, and we don’t put punctuation around it. In this way, it’s conveying a feeling or standing in for a word in the middle of other words, so we treat it as another word. Just don’t overdo it.\
 Give us a ❤️ for the bush and a 👍 for the city.
 
+*Facebook captions*
+
+Link headlines need to be short.
+
 *Numbers*
 
 Spell out numbers to nine and use numerals for 10 and up.\
