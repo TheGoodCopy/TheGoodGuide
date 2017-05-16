@@ -315,6 +315,8 @@ P-plater
 pickup, pickup truck
 a version of the pickup
 
+racetrack
+
 racing car\
 not racecar\
 racing car driver\
