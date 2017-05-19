@@ -240,8 +240,8 @@ add acronym in parentheses first and then use CMA from second instance onwards
 convertibles\
 preferred over ‘convertible cars’
 
-coupe\
-no diacritic
+coupé\
+diacritic
 
 DeLorean
 
@@ -311,6 +311,9 @@ Owner Reviews\
 section of the Carsales site
 
 P-plater
+
+peak hour\
+peak-hour commute
 
 pickup, pickup truck
 a version of the pickup
