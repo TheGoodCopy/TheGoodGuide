@@ -41,7 +41,7 @@ In Facebook captions, advice and news articles don’t get a subtitle in the lin
 
 *Blog posts*\
 We use max caps to format all titles of blog categories. After colons, we use min caps – that is, we treat the subtitle as a sentence, capitalising only the first letter of the first word and any proper noun. Don’t add a full stop.\
-Car Advice: Nutritious snacks for a road trip that rules
+Old School: Ten facts about John Lennon’s Rolls-Royce
 
 We use min caps for any subtitles within the post. These don’t take full stops.
 
