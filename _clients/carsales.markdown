@@ -137,7 +137,7 @@ Review: Top five cheap turbo cars you'll want to drive
 *Ellipses*
 
 On Facebook, use three full stops (which is easier than copying and pasting the glyph all the time). Don’t add a space before it, but add a space after.\
-All they have to do now is automate the getting-petrol-into-the-tank part...
+All they have to do now is automate the getting-petrol-into-the-tank part…
 
 *Exclamation marks*\
 Only use for true exclamations.
