@@ -47,7 +47,11 @@ Spell out to nine and use numerals from 10.
 
 *Apostrophes*
 
-In all contexts other than social media, use curly apostrophes (’) instead of straight ones. Use straight ones (') on social media, because that’s the usual default and it looks silly to override them. Whatever platform you’re writing on, make sure your quote marks are consistent.
+In all contexts other than social media, use curly apostrophes (’) instead of straight ones. These are the 6s and 9s. Use straight ones (') on social media, because that’s the usual default and it looks silly to override them. Whatever platform you’re writing on, make sure your quote marks are consistent.
+
+Mac keyboard shortcut!
+
+* ’ = option \+ shift \+ \]
 
 *Colons*
 
@@ -69,7 +73,17 @@ Our textual dashes are spaced ens.
 
 *Quote marks*
 
-In all contexts other than social media, use curly quote marks (“” and ‘’) instead of straight ones. Use straight ones (" and ') on social media, because that’s the usual default and it looks silly to override them. Whatever platform you’re writing on, make sure your quote marks are consistent.
+In all contexts other than social media, use curly quote marks (“” and ‘’) instead of straight ones. These are the 6s and 9s. Use straight ones (" and ') on social media, because that’s the usual default and it looks silly to override them. Whatever platform you’re writing on, make sure your quote marks are consistent.
+
+Mac keyboard shortcuts!
+
+* ‘ = option \+ \]
+
+* ’ = option \+ shift \+ \]
+
+* “ = option \+ \[
+
+* ” = option \+ shift \+ \[
 
 Use double quote marks around any written or spoken words. Follow Australian media style when you’re punctuating: keep punctuation inside the quote marks if your quote (usually a full sentence) has a carrier expression, and put it outside if you’re just dealing with a fragment.
 
@@ -86,68 +100,75 @@ Use single quote marks around terms you’re flagging, naming or defining.
 **Word list**
 
 19-21\
-hyphen, not en dash\
-always write in numerals and with the hyphen, not ‘19 to 21’\
-can start a sentence\
-never spelt out
+Use a hyphen between the numbers, not an en dash.\
+Always write in numerals and with the hyphen – not ‘19 to 21’.\
+It can start a sentence.\
+We never spell it out.
 
 app-encoded lock\
-the OmGate lock on our main access door off Johnston Street
+The OmGate lock on our main access door off Johnston Street.
 
 Apple TV
 
-bathrooms\
-the room with the toilets and sinks and hand dryers
+bathroom, bathrooms\
+The rooms with the toilets and sinks and hand dryers.\
+‘Loos’ is okay, too.
 
 bytes\
-go with the abbreviations or shortened terms\
+Go with the abbreviations or shortened terms.\
 MB or meg for megabyte\
 GB or gig for gigabyte
 
 CCTV
 
 downstairs\
-a mostly internal term for the space downstairs that’s available to rent for events\
-can be called the ‘event space’ internally, but we usually call it ‘downstairs’\
-externally, it’s 19-21
+We mostly use this term internally for the space downstairs that’s available to rent for events.\
+It can be called the ‘event space’ (also internally), but we usually call it ‘downstairs’.\
+Externally, it’s 19-21.
 
 first aid\
 first-aid kit\
-hyphenated when it’s working adjectivally
+Hyphenate this when it’s working adjectivally.
 
 hand dryers
 
 iOS
 
-Johnston Street
+Johnston Street\
+Spell out ‘Street’ in a sentence.\
+Only use the abbreviation in the context of the postal address.
 
 log in\
-the verb\
+This is the verb.\
 Did you log in to your Gmail account?
 
 login\
-the noun\
+This is the noun.\
 Have you entered your login?
 
 mail-out
 
 meeting room\
-not boardroom
+We don’t call this the ‘boardroom’ (except for on the Apple TV).
 
 megabits\
-when talking about internet speed\
-go with the abbreviation\
+When talking about internet speed – not to be confused with megabytes.\
+Go with the abbreviation when you’re writing about the speed.\
 Mbps for megabits per second
 
 OmGate\
-the app we use to gain access to 19-21
+This is the app we use to gain access to 19-21.\
+Note the in-caps.
 
 reverse-cycle units\
-the air conditioners and heaters
+This is what we call the air conditioners and heaters.
 
 studio\
-the term we use to refer to both the 19-21 space as a whole and the designated workspaces within 19-21\
-lower-cased when used generically (“We’re installing a cupboard in The Good Copy’s studio”) but capped when referring to the name of the studio (“Have you heard Studio 3’s doorbell lately?”)
+This is the term we use to refer to both the 19-21 space as a whole and the designated workspaces within 19-21.\
+It’s lower-cased when used generically:\
+We’re installing a cupboard in The Good Copy’s studio.\
+But it’s capped when referring to the name of the studio:\
+Have you heard Studio 3’s doorbell lately?
 
 Studio 1 tenants: The Good Copy, Rooftop Cinema, Less and More\
 Studio 2 tenants: Acclaim, Archetype Media\
