@@ -25,45 +25,63 @@ The people who rent space or desks at 19-21 are tenants, not renters or freelanc
 
 *Capitalisation*
 
-Min caps for all headings on the site: page headings, collection headings, subheadings
+Use min caps (aka ‘sentence case’) for all headings on the site: page headings, collection headings and subheadings.
 
-Use as few capital letters as possible. Generic is best!
+In copy, use as few capital letters as possible – that is, don’t make a generic noun into a proper noun unless it’s really, actually necessary. Generic is best!
 
 *Contact names and details*
 
-In a sentence, add an email address or a phone number in parentheses after a person’s name.\
-Please get in touch with Ammar (ammar@rooftopcinema.com.au) to make a booking.
+In a sentence, add an email address or a phone number in parentheses after a person’s name.
 
-*Notes*
-
-When adding a note at the end of a paragraph, format it like so, with a colon and an initial capital letter following it:\
-Note: The door automatically locks when it closes after you.
+* Please get in touch with Ammar (ammar@rooftopcinema.com.au) to make a booking.
 
 *Numbers*
 
-Use simple phone numbers, without international codes. So: four-three-three digit numbers.\
-Ammar (0402 844 617)
+Use simple phone numbers, without international codes. So: four-three-three digit numbers.
 
-Spell out to nine and use numerals 10 and up.
+* Ammar (0402 844 617)
+
+Spell out to nine and use numerals from 10.
 
 **Punctuation**
 
+*Apostrophes*
+
+In all contexts other than social media, use curly apostrophes (’) instead of straight ones. Use straight ones (') on social media, because that’s the usual default and it looks silly to override them. Whatever platform you’re writing on, make sure your quote marks are consistent.
+
+*Colons*
+
+If a colon is part of a sentence, continue in sentence case after the colon – that is, no initial capital on the first word after the colon. But if you’re adding a ‘note’ like below, start the sentence following the colon with an initial capital.
+
+* Note: The door automatically locks when it closes after you.
+
 *Commas*
 
-No Oxford comma\
-keeping them neat, clean and tidy
+We don’t use the Oxford comma.
+
+* keeping them neat, clean and tidy
 
 *Dashes*
 
-Our textual dashes are spaced ens.\
-Please lock it behind you – by pressing the ‘lock’ button.
+Our textual dashes are spaced ens.
+
+* Please lock it behind you – by pressing the ‘lock’ button.
 
 *Quote marks*
 
-Use double quote marks around any written or spoken words you’re quoting.
+In all contexts other than social media, use curly quote marks (“” and ‘’) instead of straight ones. Use straight ones (" and ') on social media, because that’s the usual default and it looks silly to override them. Whatever platform you’re writing on, make sure your quote marks are consistent.
 
-Use single quote marks around terms you're flagging or defining.\
-Press the little ‘lock’ button.
+Use double quote marks around any written or spoken words. Follow Australian media style when you’re punctuating: keep punctuation inside the quote marks if your quote (usually a full sentence) has a carrier expression, and put it outside if you’re just dealing with a fragment.
+
+* Carrier expression: “Dogs are the best,” he said.
+
+* Fragment: He called dogs “the best”.
+
+Use single quote marks around terms you’re flagging, naming or defining.
+
+* Press the little ‘lock’ button.
+
+* Our wi-fi network is called ‘Tether Locklear’.
 
 **Word list**
 
@@ -76,8 +94,15 @@ never spelt out
 app-encoded lock\
 the OmGate lock on our main access door off Johnston Street
 
+Apple TV
+
 bathrooms\
 the room with the toilets and sinks and hand dryers
+
+bytes\
+go with the abbreviations or shortened terms\
+MB or meg for megabyte\
+GB or gig for gigabyte
 
 CCTV
 
@@ -86,16 +111,33 @@ a mostly internal term for the space downstairs that’s available to rent for e
 can be called the ‘event space’ internally, but we usually call it ‘downstairs’\
 externally, it’s 19-21
 
+first aid\
+first-aid kit\
+hyphenated when it’s working adjectivally
+
 hand dryers
 
 iOS
 
 Johnston Street
 
+log in\
+the verb\
+Did you log in to your Gmail account?
+
+login\
+the noun\
+Have you entered your login?
+
 mail-out
 
 meeting room\
 not boardroom
+
+megabits\
+when talking about internet speed\
+go with the abbreviation\
+Mbps for megabits per second
 
 OmGate\
 the app we use to gain access to 19-21
@@ -117,6 +159,8 @@ the people who work at 19-21
 venue\
 we don’t use this term to refer to the event space downstairs\
 see ‘downstairs’
+
+wi-fi
 
 workspace\
 a generic noun, always written as one word
