@@ -222,6 +222,9 @@ treat as a singular noun
 best-known\
 usually hyphenated, unless teamed with another adverb
 
+best-seller\
+the Volvo XC40 is set to be a best-seller
+
 bluetooth
 
 breakdown
@@ -361,6 +364,9 @@ tonne, tonnes
 
 topnotch\
 one word
+
+twin-turbo engine\
+can be twin-turbo by itself, without engine
 
 tyres\
 not tires
