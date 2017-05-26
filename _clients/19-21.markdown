@@ -7,10 +7,12 @@ date: 2017-05-25 02:02:00 Z
 
 # Style sheet
 
-**What is 19-21?**\
+## **What is 19-21?**
+
 19-21 is a collaborative workspace. It’s home to some of the best and brightest media and digital businesses in Melbourne.
 
-**Tone of voice**\
+## **Tone of voice**
+
 ‘We’ or removed voice of 19-21? Think about socials, friendliness, all comm channels.
 
 * You’re welcome to book the space
@@ -21,7 +23,7 @@ date: 2017-05-25 02:02:00 Z
 
 The people who rent space or desks at 19-21 are tenants, not renters or freelancers or hot-deskers or anything like that.
 
-**Formatting**
+## **Formatting**
 
 *Capitalisation*
 
@@ -43,7 +45,7 @@ Use simple phone numbers, without international codes. So: four-three-three digi
 
 Spell out to nine and use numerals from 10.
 
-**Punctuation**
+## **Punctuation**
 
 *Apostrophes*
 
@@ -97,74 +99,72 @@ Use single quote marks around terms you’re flagging, naming or defining.
 
 * Our wi-fi network is called ‘Tether Locklear’.
 
-**Word list**
+## **Word list**
 
-19-21\
+**19-21**\
 Use a hyphen between the numbers, not an en dash.\
 Always write in numerals and with the hyphen – not ‘19 to 21’.\
 It can start a sentence.\
 We never spell it out.
 
-app-encoded lock\
+**app-encoded lock**\
 The OmGate lock on our main access door off Johnston Street.
 
-Apple TV
+**Apple TV**
 
-bathroom, bathrooms\
-The rooms with the toilets and sinks and hand dryers.\
+**bathroom, bathrooms\
+**The rooms with the toilets and sinks and hand dryers.\
 ‘Loos’ is okay, too.
 
-bytes\
+**bytes**\
 Go with the abbreviations or shortened terms.\
 MB or meg for megabyte\
 GB or gig for gigabyte
 
-CCTV
+**CCTV**
 
-downstairs\
+**downstairs**\
 We mostly use this term internally for the space downstairs that’s available to rent for events.\
 It can be called the ‘event space’ (also internally), but we usually call it ‘downstairs’.\
 Externally, it’s 19-21.
 
-first aid\
+**first aid\
 first-aid kit\
-Hyphenate this when it’s working adjectivally.
+**Hyphenate this when it’s working adjectivally.
 
-hand dryers
+**hand dryers**
 
-iOS
+**iOS**
 
-Johnston Street\
-Spell out ‘Street’ in a sentence.\
+**Johnston Street\
+**Spell out ‘Street’ in a sentence.\
 Only use the abbreviation in the context of the postal address.
 
-log in\
-This is the verb.\
+**log in\
+**This is the verb.\
 Did you log in to your Gmail account?
 
-login\
-This is the noun.\
+**login\
+**This is the noun.\
 Have you entered your login?
 
-mail-out
+**meeting room\
+**We don’t call this the ‘boardroom’ (except for on the Apple TV).
 
-meeting room\
-We don’t call this the ‘boardroom’ (except for on the Apple TV).
-
-megabits\
+**megabits**\
 When talking about internet speed – not to be confused with megabytes.\
 Go with the abbreviation when you’re writing about the speed.\
 Mbps for megabits per second
 
-OmGate\
-This is the app we use to gain access to 19-21.\
+**OmGate\
+**This is the app we use to gain access to 19-21.\
 Note the in-caps.
 
-reverse-cycle units\
-This is what we call the air conditioners and heaters.
+**reverse-cycle units\
+**This is what we call the air conditioners and heaters.
 
-studio\
-This is the term we use to refer to both the 19-21 space as a whole and the designated workspaces within 19-21.\
+**studio\
+**This is the term we use to refer to both the 19-21 space as a whole and the designated workspaces within 19-21.\
 It’s lower-cased when used generically:\
 We’re installing a cupboard in The Good Copy’s studio.\
 But it’s capped when referring to the name of the studio:\
@@ -174,14 +174,14 @@ Studio 1 tenants: The Good Copy, Rooftop Cinema, Less and More\
 Studio 2 tenants: Acclaim, Archetype Media\
 Studio 3 tenants: assorted
 
-tenants\
-the people who work at 19-21
+**tenants\
+**Everyone who rents a space at 19-21.
 
-venue\
-we don’t use this term to refer to the event space downstairs\
-see ‘downstairs’
+**venue\
+**We don’t use this term to refer to the event space downstairs. See **downstairs**.
 
-wi-fi
+**wi-fi**
 
-workspace\
-a generic noun, always written as one word
+**workspace\
+**A generic noun.\
+Always written as one word.
