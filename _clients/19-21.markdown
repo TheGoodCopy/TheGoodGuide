@@ -3,3 +3,120 @@ title: 19-21
 date: 2017-05-25 02:02:00 Z
 ---
 
+# 19-21
+
+# Style sheet
+
+**What is 19-21?**\
+19-21 is a collaborative workspace. It’s home to some of the best and brightest media and digital businesses in Melbourne.
+
+**Tone of voice**\
+‘We’ or removed voice of 19-21? Think about socials, friendliness, all comm channels.
+
+* You’re welcome to book the space
+
+* 19-21 is …
+
+* We share bathrooms …
+
+The people who rent space or desks at 19-21 are tenants, not renters or freelancers or hot-deskers or anything like that.
+
+**Formatting**
+
+*Capitalisation*
+
+Min caps for all headings on the site: page headings, collection headings, subheadings
+
+Use as few capital letters as possible. Generic is best!
+
+*Contact names and details*
+
+In a sentence, add an email address or a phone number in parentheses after a person’s name.\
+Please get in touch with Ammar (ammar@rooftopcinema.com.au) to make a booking.
+
+*Notes*
+
+When adding a note at the end of a paragraph, format it like so, with a colon and an initial capital letter following it:\
+Note: The door automatically locks when it closes after you.
+
+*Numbers*
+
+Use simple phone numbers, without international codes. So: four-three-three digit numbers.\
+Ammar (0402 844 617)
+
+Spell out to nine and use numerals 10 and up.
+
+**Punctuation**
+
+*Commas*
+
+No Oxford comma\
+keeping them neat, clean and tidy
+
+*Dashes*
+
+Our textual dashes are spaced ens.\
+Please lock it behind you – by pressing the ‘lock’ button.
+
+*Quote marks*
+
+Use double quote marks around any written or spoken words you’re quoting.
+
+Use single quote marks around terms you're flagging or defining.\
+Press the little ‘lock’ button.
+
+**Word list**
+
+19-21\
+hyphen, not en dash\
+always write in numerals and with the hyphen, not ‘19 to 21’\
+can start a sentence\
+never spelt out
+
+app-encoded lock\
+the OmGate lock on our main access door off Johnston Street
+
+bathrooms\
+the room with the toilets and sinks and hand dryers
+
+CCTV
+
+downstairs\
+a mostly internal term for the space downstairs that’s available to rent for events\
+can be called the ‘event space’ internally, but we usually call it ‘downstairs’\
+externally, it’s 19-21
+
+hand dryers
+
+iOS
+
+Johnston Street
+
+mail-out
+
+meeting room\
+not boardroom
+
+OmGate\
+the app we use to gain access to 19-21
+
+reverse-cycle units\
+the air conditioners and heaters
+
+studio\
+the term we use to refer to both the 19-21 space as a whole and the designated workspaces within 19-21\
+lower-cased when used generically (“We’re installing a cupboard in The Good Copy’s studio”) but capped when referring to the name of the studio (“Have you heard Studio 3’s doorbell lately?”)
+
+Studio 1 tenants: The Good Copy, Rooftop Cinema, Less and More\
+Studio 2 tenants: Acclaim, Archetype Media\
+Studio 3 tenants: assorted
+
+tenants\
+the people who work at 19-21
+
+venue\
+we don’t use this term to refer to the event space downstairs\
+see ‘downstairs’
+
+workspace\
+a generic noun, always written as one word
