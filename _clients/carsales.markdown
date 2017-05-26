@@ -210,6 +210,11 @@ Review
 *Word list*\
 Our dictionary is the *Macquarie*.
 
+100km/h\
+Use the abbreviations when you’re measuring distance or speed. Follow the *Style Manual* but close up the unit to the numeral.\
+broke the 100km/h barrier in 1899\
+Back then, physicians didn’t believe the human body could endure travelling at 100km/h.
+
 advice on\
 Here’s our advice on how to handle it
 
@@ -221,9 +226,6 @@ treat as a singular noun
 
 best-known\
 usually hyphenated, unless teamed with another adverb
-
-best-seller\
-the Volvo XC40 is set to be a best-seller
 
 bluetooth
 
@@ -321,6 +323,11 @@ peak-hour commute
 pickup, pickup truck
 a version of the pickup
 
+Popemobile, the\
+but pope, generically, unless it’s before the name\
+in case Pope Francis needs to make a quick escape\
+the name given to the practice of 12 footmen carrying the pope on a throne
+
 racetrack
 
 racing car\
@@ -353,6 +360,8 @@ the world’s most famous Rolls
 Skoda\
 no diacritic
 
+soft-top
+
 sports car designers\
 no hyphen required
 
@@ -364,9 +373,6 @@ tonne, tonnes
 
 topnotch\
 one word
-
-twin-turbo engine\
-can be twin-turbo by itself, without engine
 
 tyres\
 not tires
