@@ -83,6 +83,9 @@ Give us a ❤️ for the bush and a 👍 for the city.
 
 Link headlines need to be short.
 
+For articles that contain videos (not standalone Facebook videos), format the headline like this:\
+Video: Our advice on how to tackle steep terrain
+
 *Numbers*
 
 Spell out numbers to nine and use numerals for 10 and up.\
