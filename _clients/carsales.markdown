@@ -248,8 +248,8 @@ add acronym in parentheses first and then use CMA from second instance onwards
 convertibles\
 preferred over ‘convertible cars’
 
-coupé\
-diacritic
+coupe\
+no diacritic
 
 DeLorean
 
@@ -340,6 +340,8 @@ no hyphen required
 
 rear-view mirror, rear-view (implied mirror)\
 not traditional Australian spelling, but very – or most – popular
+
+rear-wheel drive
 
 revhead
 
