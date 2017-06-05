@@ -365,6 +365,8 @@ the world’s most famous Rolls
 Skoda\
 no diacritic
 
+smartphone
+
 soft-top
 
 sports car designers\
