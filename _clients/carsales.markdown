@@ -189,7 +189,7 @@ Mercedes-Benz GLC coupe\
 Mini Countryman\
 Skoda Octavia RS\
 Suzuki Ignis\
-Tesla Model X\
+Tesla Model S (‘Tesla announces its Model Y’)\
 Toyota HiLux\
 VW Golf
 
@@ -288,6 +288,9 @@ hyphenate as an adverb and adjective\
 Review them head-to-head
 
 HiLux
+
+hot hatch\
+hot-hatch rulebook
 
 ice cream\
 no hyphen
