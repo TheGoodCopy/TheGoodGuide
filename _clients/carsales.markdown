@@ -289,7 +289,7 @@ Review them head-to-head
 
 HiLux
 
-hot hatch\
+hot hatch (what’s the definition?)\
 hot-hatch rulebook
 
 ice cream\
