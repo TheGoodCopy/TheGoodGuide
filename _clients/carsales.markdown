@@ -227,6 +227,9 @@ abbreviation AWD on second instance, if context allows
 ANCAP\
 treat as a singular noun
 
+back roads\
+not backroads
+
 best-known\
 usually hyphenated, unless teamed with another adverb
 
@@ -250,6 +253,8 @@ preferred over ‘convertible cars’
 
 coupe\
 no diacritic
+
+crossover
 
 DeLorean
 
