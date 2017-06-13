@@ -271,6 +271,9 @@ Here are six romantic drives
 each other\
 two or more (one another = several things, not only two things)
 
+*Fast and Furious* franchise\
+*The Fast and the Furious* can be the title of the first film
+
 glovebox
 
 guaranteed buy-back
@@ -291,6 +294,9 @@ HiLux
 
 hot hatch (what’s the definition?)\
 hot-hatch rulebook
+
+hub cap\
+hub-cap spears
 
 ice cream\
 no hyphen
@@ -323,10 +329,15 @@ Motoring.com.au
 
 multimillion
 
+OK\
+not okay or Ok or O.K.
+
 Owner Reviews\
 section of the Carsales site
 
 P-plater
+
+paint job
 
 peak hour\
 peak-hour commute
@@ -379,6 +390,9 @@ soft-top
 
 sports car designers\
 no hyphen required
+
+takeaway\
+no hyphen
 
 test drive (noun)\
 test-drive (adjective)\
