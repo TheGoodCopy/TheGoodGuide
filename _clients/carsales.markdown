@@ -118,6 +118,10 @@ Use numerals to show decades, rather than spelling them out, and use an apostrop
 Powerful compacts were all the rage in the ’60s\
 the 1890s, the ’90s
 
+Spell out units of measurement, but use numerals. Break this rule (i.e., use abbreviations) when you’re dealing with a lot of numbers in one section.\
+Weighing in at 15 kilograms *not *Weighing in at 15kg\
+heated to 70 degrees Celsius
+
 *Tagging*
 
 Tag Australian car brands wherever possible. Tag the international brand if an Australian one isn’t available.
