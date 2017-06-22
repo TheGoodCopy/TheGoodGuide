@@ -329,6 +329,8 @@ line-up
 
 Mercedes-Benz
 
+mid-size
+
 Mini\
 not MINI
 
