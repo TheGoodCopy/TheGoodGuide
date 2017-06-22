@@ -119,7 +119,7 @@ Powerful compacts were all the rage in the ’60s\
 the 1890s, the ’90s
 
 Spell out units of measurement, but use numerals. Break this rule (i.e., use abbreviations) when you’re dealing with a lot of numbers in one section.\
-Weighing in at 15 kilograms *not *Weighing in at 15kg\
+Weighing in at 15 kilograms \*not \*Weighing in at 15kg\
 heated to 70 degrees Celsius
 
 *Tagging*
@@ -195,6 +195,7 @@ Skoda Octavia RS\
 Suzuki Ignis\
 Tesla Model S (‘Tesla announces its Model Y’)\
 Toyota HiLux\
+Volkswagen Polo Mk6\
 VW Golf
 
 *Generic car models*
@@ -224,6 +225,9 @@ Back then, physicians didn’t believe the human body could endure travelling at
 
 advice on\
 Here’s our advice on how to handle it
+
+AirQuadOne\
+Neva AirQuadOne
 
 all-wheel drive\
 abbreviation AWD on second instance, if context allows
