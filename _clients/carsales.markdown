@@ -65,6 +65,10 @@ Capitalise school years, unless they’re plural. And use digits, not words.\
 Mia’s in Grade 5.\
 Throughout years 10 and 11
 
+Capitalise names of car games – as if they’re titles.\
+Punch Buggy\
+I Spy
+
 *Emoji*
 
 We can use emoji in captions. We just don’t overdo it.
@@ -360,6 +364,9 @@ Popemobile, the\
 but pope, generically, unless it’s before the name\
 in case Pope Francis needs to make a quick escape\
 the name given to the practice of 12 footmen carrying the pope on a throne
+
+Punch Buggy\
+car game, capitalised as a title
 
 racetrack
 
