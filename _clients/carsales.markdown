@@ -69,7 +69,7 @@ Throughout years 10 and 11
 
 We can use emoji in captions. We just don’t overdo it.
 
-If an emoji comes at the end of a caption, just let it sit at the end without any other punctuation. See **Punctuation:** *Full stops* for more info about using full stops at the end of captions. (Hint: We don’t use them.)
+If an emoji comes at the end of a caption, just let it sit at the end without any other punctuation. See **Punctuation:** *Full stops* for more info about using full stops at the end of captions. (Hint: We don’t use them if the caption is only one sentence.)
 
 If an emoji comes at the start of a sentence and is working as a word, the word following it continues in lower-case (so, with no initial capital).
 
@@ -151,7 +151,7 @@ Only use for true exclamations.
 
 *Full stops*
 
-We don’t use full stops on the final sentence in a Facebook caption, no matter whether the caption is one, two or three sentences long.
+We don’t use full stops in a Facebook caption if it is one single sentence. We only add them if the caption has two or more sentences.
 
 Don’t use full stops in acronyms and initialisms.\
 You only get AM on the car radio now.\
