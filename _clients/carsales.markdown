@@ -399,6 +399,8 @@ always with a hyphen, to stay true to the brand\
 can be just ‘Rolls’, for colloquialness\
 the world’s most famous Rolls
 
+scrap heap
+
 Skoda\
 no diacritic
 
