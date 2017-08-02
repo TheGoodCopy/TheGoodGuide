@@ -413,6 +413,8 @@ soft-top
 sports car designers\
 no hyphen required
 
+supercar
+
 takeaway\
 no hyphen
 
