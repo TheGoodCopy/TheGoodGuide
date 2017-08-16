@@ -405,6 +405,9 @@ the world’s most famous Rolls
 
 scrap heap
 
+seatbelt\
+not seat belt or safety belt
+
 Skoda\
 no diacritic
 
