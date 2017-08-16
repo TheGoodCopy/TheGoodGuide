@@ -269,6 +269,8 @@ preferred over ‘convertible cars’
 coupe\
 no diacritic
 
+crash-test dummies
+
 crossover
 
 DeLorean
