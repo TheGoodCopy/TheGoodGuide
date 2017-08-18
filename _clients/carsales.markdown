@@ -418,6 +418,8 @@ soft-top
 sports car designers\
 no hyphen required
 
+souped-up
+
 supercar
 
 takeaway\
