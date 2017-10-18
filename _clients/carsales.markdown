@@ -24,6 +24,8 @@ Have @Honda AustralianCars transformed the ever safe and reliable Civic into som
 That said, we can swap into the plural in a new sentence – but never within the same sentence.\
 Can Uber deliver autonomous flying taxis by 2020? Or are they just distracting us from their recent controversies?
 
+We refer to the people we’re writing about (e.g., in Carpool blog posts) by their first names, not their surnames. It’s friendlier. Just make sure the name makes sense in the context.
+
 *Audience*
 
 Our audience is a ‘you’, and we use the imperative mood to talk to them.\
