@@ -245,6 +245,11 @@ treat as a singular noun
 back roads\
 not backroads
 
+back seat\
+two words as a noun; hyphenated as an adjective\
+the back seat\
+a back-seat driver
+
 best-known\
 usually hyphenated, unless teamed with another adverb
 
