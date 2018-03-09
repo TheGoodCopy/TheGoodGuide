@@ -234,6 +234,9 @@ Back then, physicians didn’t believe the human body could endure travelling at
 advice on\
 Here’s our advice on how to handle it
 
+aircon (abb.)\
+air conditioning
+
 AirQuadOne\
 Neva AirQuadOne
 
