@@ -254,6 +254,8 @@ two words as a noun; hyphenated as an adjective\
 the back seat\
 a back-seat driver
 
+BBQ’d
+
 best-known\
 usually hyphenated, unless teamed with another adverb
 
@@ -330,6 +332,9 @@ hub-cap spears
 
 ice cream\
 no hyphen
+
+IMHO\
+slangy acronyms are fine
 
 infotainment system
 
