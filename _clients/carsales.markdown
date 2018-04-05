@@ -263,6 +263,8 @@ bluetooth
 
 breakdown
 
+brick-and-mortar
+
 buy-back\
 hyphenated, not one word or two words
 
