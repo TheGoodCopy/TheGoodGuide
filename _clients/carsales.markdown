@@ -300,6 +300,8 @@ another word for ‘cars’\
 This is our favourite drive\
 Here are six romantic drives
 
+dual-cab
+
 each other\
 two or more (one another = several things, not only two things)
 
@@ -475,5 +477,7 @@ wintry
 2WD
 
 4WD
+
+4x4
 
 60-second review
