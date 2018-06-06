@@ -246,6 +246,9 @@ abbreviation AWD on second instance, if context allows
 ANCAP\
 treat as a singular noun
 
+baby car seat\
+not booster seat, can be child safety seat
+
 back roads\
 not backroads
 
